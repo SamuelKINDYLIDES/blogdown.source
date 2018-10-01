@@ -27,7 +27,7 @@ weight = 3
 
 Samuel Kindylides
 <br>
-<small>A short description of myself here</small>
+<small>Second year student in Biology</small>
 <br><br>
 
 <script type="text/javascript">
