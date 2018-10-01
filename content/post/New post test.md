@@ -2,8 +2,8 @@
 date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
-tags = ["academic", "hugo"]
-title = "First blog post : Test"
+tags = ["Astrophysics"]
+title = "New post test"
 math = true
 summary = """
 This is a test.
