@@ -1,31 +1,23 @@
 +++
-# Date this page was created.
-date = "2018-10-23"
+date = 2016-04-20
+lastmod = 2018-10-23
+draft = false
+tags = ["Frog"]
+title = "New post : Poison dart frog"
+math = true
+summary = """
 
-# Project title.
-title = "New project test : Poison dart frog"
+"""
 
-# Project summary to display on homepage.
-summary = "Short presentation of the **Dendrobatidae** family"
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "poison dart frog preview.jpg"
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Frog", "Ecology"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = ""
-
-# Does the project detail page use math formatting?
-math = false
-
-# Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/poison_dart_frog.jpg"
 caption = "*Ranitomeya imitator Varadero*"
+preview = false
+
 +++
+
+
+## Colorful but deadly
 
 **General description**
 

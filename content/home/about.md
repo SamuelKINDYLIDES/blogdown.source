@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Biology",
     "Astrophysics",
-    "Frogs",
-    "Reptiles"
+    "Reptiles",
+    "Marine biology"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,12 +28,12 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
-  year = 2018
+  course = "Secondary school certificate (CESS)"
+  institution = "Collège duSacré-Coeur, Charleroi, Belgium"
+  year = 2016
 
 +++
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I am currently a student in Biology at the University of Mons, Belgium. Through this website, I would like to share my thoughts and projects to come with you.
