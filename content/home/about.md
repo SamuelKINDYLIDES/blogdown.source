@@ -29,7 +29,7 @@ weight = 5
 
 [[education.courses]]
   course = "Secondary school certificate (CESS)"
-  institution = "Collège duSacré-Coeur, Charleroi, Belgium"
+  institution = "Collège du Sacré-Coeur, Charleroi, Belgium"
   year = 2016
 
 +++
