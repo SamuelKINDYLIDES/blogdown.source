@@ -27,7 +27,7 @@ image = "headers/shrimp_aquarium_header.jpg"
 caption = "*Neocardina davidi* (macro shot by Steven Chan)"
 +++
 
-**What makes a self-sustaining aquarium**
+**What makes a self-sustaining aquarium ?**
 
 The basic idea behind a self-sustaining aquarium is to create an aquarium which inhabitants don't need constant care to survive. You don't need to add anything to the aquarium, and you don't need to take anything out. The only outside help you need to provide is light and the addition of water from time to time. Creating perfect balance in such a restrained space is a pretty complicated feat to accomplish, requiring a lot of patience and potentially multiple attempts to succeed.
 
